@@ -1,5 +1,4 @@
 Hey Folks![banner](https://user-images.githubusercontent.com/90836873/164912513-0290abc2-21f9-4bf9-bf94-6d776c8b446d.png)
-img align="right" alt="Coding" width="400" src=""
 ==================================
 Full Stack Web Developer | Community Manager | Entrepreneurial Mindset | C++ Problem Solving
 *   🌍  I'm based in India
@@ -7,8 +6,7 @@ Full Stack Web Developer | Community Manager | Entrepreneurial Mindset | C++ Pro
 *   🚀  I'm currently working on [PLYPICKER](http://www.plypicker.com/)
 *   🧠  I'm learning Flutter
 *   🤝  I'm open to collaborating on Web-Dev
-*   ⚡  I'm kind of early bird who develops in the morning and loves mentoring in the evening### 
-img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" Skills<p align="left">
+*   ⚡  I'm kind of early bird who develops in the morning and loves mentoring in the evening###Skills<p align="left">
                                 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
                                 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
                                 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
