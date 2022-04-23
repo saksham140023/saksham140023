@@ -1,12 +1,12 @@
-Hey Folks![banner](https://user-images.githubusercontent.com/90836873/164912513-0290abc2-21f9-4bf9-bf94-6d776c8b446d.png)
+Hey Folks
 ==================================
-Full Stack Web Developer | Community Manager | Entrepreneurial Mindset | C++ Problem Solving
+
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [https://linktr.ee/Saksham\_Shandilya](mailto:https://linktr.ee/Saksham_Shandilya)
 *   🚀  I'm currently working on [PLYPICKER](http://www.plypicker.com/)
 *   🧠  I'm learning Flutter
 *   🤝  I'm open to collaborating on Web-Dev
-*   ⚡  I'm kind of early bird who develops in the morning and loves mentoring in the evening###Skills<p align="left">
+*   ⚡  I'm kind of early bird who develops in the morning and loves mentoring in the evening### Skills<p align="left">
                                 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
                                 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
                                 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
